@@ -1,0 +1,37 @@
+{
+  "admin@utem.cl": {
+    "name": "Administrador Sistema",
+    "email": "admin@utem.cl",
+    "role": "admin",
+    "picture": "",
+    "verified_email": true,
+    "created_at": "2024-01-01T00:00:00Z",
+    "last_login": "2024-01-01T00:00:00Z",
+    "facultad": "",
+    "departamento": ""
+  },
+  "profesor.ejemplo@utem.cl": {
+    "name": "Dr. Ejemplo Profesor",
+    "email": "profesor.ejemplo@utem.cl",
+    "role": "profesor",
+    "picture": "",
+    "verified_email": true,
+    "created_at": "2024-01-01T00:00:00Z",
+    "last_login": "2024-01-01T00:00:00Z",
+    "facultad": "FIN",
+    "departamento": "Ingeniería en Informática"
+  },
+  "estudiante.ejemplo@utem.cl": {
+    "name": "Juan Estudiante Ejemplo",
+    "email": "estudiante.ejemplo@utem.cl",
+    "role": "estudiante",
+    "picture": "",
+    "verified_email": true,
+    "created_at": "2024-01-01T00:00:00Z",
+    "last_login": "2024-01-01T00:00:00Z",
+    "facultad": "FIN",
+    "departamento": "Ingeniería en Informática",
+    "rut": "12345678-9",
+    "year_ingreso": 2022
+  }
+}
